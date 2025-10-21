@@ -9,7 +9,7 @@ This repository contains all my Python exercises and mini-projects while I am le
 ## 📌 Projects Included
 - **Calculator** – basic operations (+, -, *, /)
 - **Grade Checker** – determines if the student passed or failed
-- **Grade Converter** – converts numerical grade to remarks (e.g., 95 → Excellent)
+- **Grade Converter** – converts numerical grade to Tertiary grading System (e.g., 95 → 1.25)
 - **More upcoming projects!** (loops, OOP, file handling, etc.)
 
 ---
