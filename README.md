@@ -28,8 +28,9 @@ This repository contains all my Python exercises and mini-projects while I am le
 ---
 
 ## 📂 Repository Structure
--/python-practice
-
+- /Grade-Converter
+- /Grade-Checker
+- /Calculator
 
 ---
 
