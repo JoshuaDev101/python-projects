@@ -28,3 +28,20 @@ This repository contains all my Python exercises and mini-projects while I am le
 ---
 
 ## 📂 Repository Structure
+/python-practice
+/Calculator
+/Grade-Checker
+/Grade-Converter
+/Others (future lessons and projects)
+
+---
+
+## 🚀 How to Run
+1. Open a project folder
+2. Run the Python file in terminal:
+
+---
+
+### ✨ Notes
+This repository will continue to grow as I learn more about Python. Feel free to check my progress!
+
